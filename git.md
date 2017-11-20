@@ -1,27 +1,37 @@
-### 生成ssh    
+## git推送到github步骤
+### (1)生成ssh    
     ssh-keygen -t rsa -C "1445124133@qq.com"
     cat /c/Users/youh/.ssh/id_rsa.pub 查看rsa
 
-### 添加ssh 
+### (2)添加ssh 
     个人中心--->settings--->SSH and GPG keys
 
-### 初始化本地仓库
+### (3)初始化本地仓库
     git init
 
-### 添加忽略的文件夹
+### (4)设置用户名和邮箱。
+    git config --global user.name "dengzhiqiang"
+    git config --global user.email "1445124133@qq.com"   
+
+### (5)添加远程地址
+    git remote add origin git@github.com/你的github用户名/仓库名.git
+    仓库名的空格用 - 来代替
+
+### (6)添加忽略的文件夹
     (1) /mtk/               过滤整个文件夹
     (2) *.zip                过滤所有.zip文件
     (3) /mtk/doc         过滤某个具体文件      
 
-### git提交流程
+### (7)git提交流程
     git一般分:
     git add . ->将修改添加至本地缓存
     git commit -m 'msg' ->将本地缓存保存到本地仓库中
     git push ->将本地仓库推送至服务器 git push origin master
     git pull ->将服务器的代码更新到本地仓库中 git pull origin master     
+    git status 查看更改状态
+
 
 ### Git常用命令
-
 #### 查看、添加、提交、删除、找回，重置修改文件
     git help <command> # 显示command的help
     git show # 显示某次提交的内容 git show $id
