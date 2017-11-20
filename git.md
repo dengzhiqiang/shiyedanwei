@@ -17,6 +17,9 @@
     git remote add origin git@github.com/你的github用户名/仓库名.git
     仓库名的空格用 - 来代替
 
+    如果已经有了远程的仓库，需要将代码克隆到本地来
+    git clone git@github.com/你的github用户名/仓库名.git
+
 ### (6)添加忽略的文件夹
     (1) /mtk/               过滤整个文件夹
     (2) *.zip                过滤所有.zip文件
