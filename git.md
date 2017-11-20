@@ -6,6 +6,9 @@
 ### (2)添加ssh 
     个人中心--->settings--->SSH and GPG keys
 
+    ssh git@github.com 进行连接认证
+    
+
 ### (3)初始化本地仓库
     git init
 
