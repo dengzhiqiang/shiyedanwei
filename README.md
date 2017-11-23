@@ -7,4 +7,5 @@
 
 区县历年真题PDF: 百度网盘（144）/金标尺/真题/exam/1
 
-
+### ecma6 视频播放：
+    http://newoss.maiziedu.com/qiniu/ecma-05.mp4 从第五个开始看起
