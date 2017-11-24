@@ -9,3 +9,10 @@
 
 ### ecma6 视频播放：
     http://newoss.maiziedu.com/qiniu/ecma-05.mp4 从第五个开始看起
+
+### 其他
+    mall 
+        weixin    
+            dengzhiqiangkj@126.com   dengzhiqiang123   
+        mobile/admin/
+            admin admin123
