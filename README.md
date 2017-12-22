@@ -26,13 +26,25 @@ z：真题
     1-2016.2.27铜梁/1.html 19题d
 
     复习题勘误版本PDF：题目93页 答案87页 经济单选题1题
-                      公文：127页22题                        
+                      公文：140页60题                        
 
     点睛真题法律-11页
 
 
 
 区县历年真题PDF: 百度网盘（144）/金标尺/真题/exam/1
+
+华图专项：http://cq.huatu.com/zt/syztxz/ 好多题目这里
+中公微信: 每日一练，历年真题
+
+
+### 图片文字识别：
+    捷速OCR文字识别软件
+    百度网络图片识别：http://ai.baidu.com/tech/ocr/webimage
+
+
+
+
 
 ### ecma6 视频播放：
     http://newoss.maiziedu.com/qiniu/ecma-05.mp4 从第五个开始看起
